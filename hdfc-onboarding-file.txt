@@ -1,2 +1,5 @@
 hello devops
 Good Morning
+github acc creation
+create 3 repo public --> read me file
+add some dummy files in the 3 repos
